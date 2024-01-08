@@ -16,7 +16,12 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  // Put you credentials here
+  apiKey: "AIzaSyCQUZXTzDFwgzjlW7itnKO3dDKVDINe6Wg",
+  authDomain: "bd-ejem.firebaseapp.com",
+  projectId: "bd-ejem",
+  storageBucket: "bd-ejem.appspot.com",
+  messagingSenderId: "790895271088",
+  appId: "1:790895271088:web:212d28eb80417ad9752f75"
 };
 
 // Initialize Firebase
